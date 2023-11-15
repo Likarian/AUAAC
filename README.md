@@ -7,8 +7,9 @@ Official implementation of the paper 'AUAAC: Area Under Accuracy-Accuracy Curve 
 * pytorch >= 2.0
   
 ### Quick start
+*Trained network weight should be in model directory
+<br>
 Run the following code.
-Trained network weight should be in model directory
 <br>
 For calculating ACC-IND and ACC-OOD, and saving scores in ./result/*.csv
 
